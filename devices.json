@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Redmi 5",
+        "brand": "Xiaomi",
+        "codename": "rosy",
+        "supported_versions": [
+            {
+                "version_code": "1.0",
+                "stable": false,
+                "deprecated": false
+            }
+        ],
+        "repositories": [
+            "atiga_device_xiaomi_rosy",
+            "atiga_kernel_xiaomi_rosy",
+            "atiga_vendor_xiaomi_rosy",
+        ]
+    }
+]
